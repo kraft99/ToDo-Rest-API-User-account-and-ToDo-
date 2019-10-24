@@ -1,0 +1,25 @@
+Guide
+
+Todo API
+
+user can
+1. create Todo
+2. update Todo (only owners)
+3. destroy/delete Todo (only owners)
+4. search Todo (only owner)
+
+
+User API
+
+1. register  
+2. login 
+
+jwt authentication - token
+
+
+
+TOPICS COVERING
+PAGINATIONS
+FILTER,SEARCH,ORDERING
+TOKEN AUTHENTICATIONS
+THROTTLING
